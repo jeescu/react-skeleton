@@ -26,4 +26,4 @@ $ npm install --save react
 $ npm install --save react-dom
 
 8 Run the app using npm start
-- See package json for the script
+- See package json for the script 	
