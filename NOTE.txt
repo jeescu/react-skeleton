@@ -1,0 +1,26 @@
+Creating React Project
+
+1. npm init
+- initialize project as npm project, node
+
+2. Installing browserify
+- make npm packages available on client
+$ npm install -g browserify [make it global]
+
+3. Installing babelify
+- babel - converts jsx/es2015 to native old js to rendered properly on client
+$ npm install --save babelify
+
+4. Installing watchify
+- Watcher, hot code reload on dev
+$ npm install --save watchify
+
+5. Installing babel-preset-react
+- compile jsx into normal javascript
+$ npm install --save babel-preset-react
+
+6. Install REACT
+$ npm install --save react
+
+7. Install REACT DOM
+$ npm install --save react-dom
